@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<meta content="summary_large_image" name="twitter:card" />
+	<meta content="website" property="og:type" />
+	<meta content="" property="og:description" />
+	<meta content="https://orm9z9sl8o.preview-postedstuff.com/V2-AkwP-ZBCci-ZC9cp-sEUq/" property="og:url" />
+	<meta content="https://pro-bee-beepro-thumbnail.getbee.io/messages/877377/861551/1774847/10120597_large.jpg" property="og:image" />
+	<meta content="" property="og:title" />
+	<meta content="" name="description" />
+	<meta charset="utf-8" />
+	<meta content="width=device-width" name="viewport" />
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet" type="text/css" />
+	<style>
+		.bee-row,
+		.bee-row-content {
+			position: relative
+		}
+
+		.bee-row-1,
+		.bee-row-10,
+		body {
+			background-color: #fff
+		}
+
+		.bee-row-1,
+		.bee-row-10,
+		.bee-row-2,
+		.bee-row-2 .bee-row-content,
+		.bee-row-3,
+		.bee-row-4,
+		.bee-row-5,
+		.bee-row-6,
+		.bee-row-6 .bee-row-content,
+		.bee-row-7,
+		.bee-row-7 .bee-row-content,
+		.bee-row-8,
+		.bee-row-9 {
+			background-repeat: no-repeat
+		}
+
+		body {
+			color: #000;
+			font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-4 a,
+		.bee-row-3 .bee-col-1 .bee-block-5 a,
+		a {
+			color: #ba946d
+		}
+
+		* {
+			box-sizing: border-box
+		}
+
+		body,
+		h1,
+		p {
+			margin: 0
+		}
+
+		.bee-row-content {
+			max-width: 1440px;
+			margin: 0 auto;
+			display: flex
+		}
+
+		.bee-row-content .bee-col-w3 {
+			flex-basis: 25%
+		}
+
+		.bee-row-content .bee-col-w4 {
+			flex-basis: 33%
+		}
+
+		.bee-row-content .bee-col-w5 {
+			flex-basis: 42%
+		}
+
+		.bee-row-content .bee-col-w12 {
+			flex-basis: 100%
+		}
+
+		.bee-button .content,
+		.bee-html-block {
+			text-align: center
+		}
+
+		.bee-button a,
+		.bee-icon .bee-icon-label-right a {
+			text-decoration: none
+		}
+
+		.bee-divider,
+		.bee-image {
+			overflow: auto
+		}
+
+		.bee-divider .center,
+		.bee-image .bee-center {
+			margin: 0 auto
+		}
+
+		.bee-row-1 .bee-col-1 .bee-block-2,
+		.bee-row-2 .bee-col-1 .bee-block-9 {
+			width: 100%
+		}
+
+		.bee-icon {
+			display: inline-block;
+			vertical-align: middle
+		}
+
+		.bee-icon .bee-content {
+			display: flex;
+			align-items: center
+		}
+
+		.bee-image img {
+			display: block;
+			width: 100%
+		}
+
+		.bee-paragraph {
+			overflow-wrap: anywhere
+		}
+
+		@media (max-width:768px) {
+			.bee-row-content:not(.no_stack) {
+				display: block
+			}
+		}
+
+		.bee-row-1 .bee-row-content,
+		.bee-row-10 .bee-row-content,
+		.bee-row-3 .bee-row-content,
+		.bee-row-4 .bee-row-content,
+		.bee-row-5 .bee-row-content {
+			background-color: #fff;
+			background-repeat: no-repeat;
+			color: #000
+		}
+
+		.bee-row-1 .bee-col-1 {
+			padding-bottom: 25px;
+			padding-top: 5px
+		}
+
+		.bee-row-1 .bee-col-2,
+		.bee-row-1 .bee-col-3,
+		.bee-row-10 .bee-col-1,
+		.bee-row-3 .bee-col-1,
+		.bee-row-4 .bee-col-1,
+		.bee-row-5 .bee-col-1,
+		.bee-row-6 .bee-col-1,
+		.bee-row-7 .bee-col-1,
+		.bee-row-8 .bee-col-1,
+		.bee-row-9 .bee-col-1 {
+			padding-bottom: 5px;
+			padding-top: 5px
+		}
+
+		.bee-row-2 .bee-row-content {
+			background-image: url('https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5276/background-sky.png');
+			background-position: top center;
+			color: #000
+		}
+
+		.bee-row-2 .bee-col-1 .bee-block-1,
+		.bee-row-2 .bee-col-1 .bee-block-2,
+		.bee-row-2 .bee-col-1 .bee-block-6,
+		.bee-row-3 .bee-col-1 .bee-block-1,
+		.bee-row-3 .bee-col-1 .bee-block-6,
+		.bee-row-4 .bee-col-1 .bee-block-1,
+		.bee-row-5 .bee-col-1 .bee-block-7,
+		.bee-row-7 .bee-col-1 .bee-block-1,
+		.bee-row-8 .bee-col-1 .bee-block-1,
+		.bee-row-9 .bee-col-1 .bee-block-1 {
+			padding: 10px
+		}
+
+		.bee-row-2 .bee-col-1 .bee-block-3,
+		.bee-row-2 .bee-col-1 .bee-block-5,
+		.bee-row-3 .bee-col-1 .bee-block-3 {
+			text-align: center;
+			width: 100%
+		}
+
+		.bee-row-2 .bee-col-1 .bee-block-4,
+		.bee-row-2 .bee-col-1 .bee-block-7,
+		.bee-row-2 .bee-col-1 .bee-block-8 {
+			padding: 5px
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-2 {
+			padding-left: 10px;
+			padding-right: 10px;
+			width: 100%
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-4,
+		.bee-row-3 .bee-col-1 .bee-block-5 {
+			padding-left: 30px;
+			padding-right: 30px
+		}
+
+		.bee-row-5 .bee-col-1 .bee-block-1 {
+			padding: 5px 10px;
+			width: 100%
+		}
+
+		.bee-row-6 .bee-row-content {
+			background-color: #f5eae6;
+			color: #000
+		}
+
+		.bee-row-6 .bee-col-1 .bee-block-2 {
+			padding: 10px;
+			text-align: center
+		}
+
+		.bee-row-7 .bee-row-content {
+			border-radius: 0;
+			color: #000
+		}
+
+		.bee-row-8 .bee-row-content,
+		.bee-row-9 .bee-row-content {
+			background-image: url('https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5276/stroke.png');
+			background-repeat: repeat;
+			color: #000
+		}
+
+		.bee-row-10 .bee-col-1 .bee-block-1 {
+			color: #1e0e4b;
+			font-family: Inter, sans-serif;
+			font-size: 15px;
+			padding-bottom: 5px;
+			padding-top: 5px;
+			text-align: center
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-4 {
+			color: #1a1a1a;
+			font-size: 18px;
+			letter-spacing: 0;
+			line-height: 180%;
+			text-align: center
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-4 p:not(:last-child),
+		.bee-row-3 .bee-col-1 .bee-block-5 p:not(:last-child) {
+			margin-bottom: undefined
+		}
+
+		.bee-row-3 .bee-col-1 .bee-block-5 {
+			color: #013220;
+			font-size: 18px;
+			letter-spacing: 0;
+			line-height: 180%;
+			text-align: center
+		}
+
+		.bee-row-10 .bee-col-1 .bee-block-1 .bee-icon-image {
+			padding: 5px 6px 5px 5px
+		}
+
+		.bee-row-10 .bee-col-1 .bee-block-1 .bee-icon:not(.bee-icon-first) .bee-content {
+			margin-left: 0
+		}
+
+		.bee-row-10 .bee-col-1 .bee-block-1 .bee-icon::not(.bee-icon-last) .bee-content {
+			margin-right: 0
+		}
+	</style>
+</head>
+
+<body>
+	<div class="bee-page-container">
+		<div class="bee-row bee-row-1">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w3">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:30px;"></div>
+					</div>
+					<div class="bee-block bee-block-2 bee-image"><a href="http://www.example.com" target="_self"><img alt="your-ogo" class="bee-center bee-fixedwidth" src="https://c7dbb8b38b.imgdist.com/public/users/Integrators/BeeProAgency/877377_861551/Abhijith%20%26%20Parvathi.png" style="max-width:108px;" /></a></div>
+				</div>
+				<div class="bee-col bee-col-2 bee-col-w4">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+				</div>
+				<div class="bee-col bee-col-3 bee-col-w5">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:30px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-2">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-2 bee-divider">
+						<div class="spacer" style="height:15px;"></div>
+					</div>
+					<div class="bee-block bee-block-3 bee-heading">
+						<h1 style="color:#013220;direction:ltr;font-family:'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;font-size:37px;font-weight:normal;letter-spacing:2px;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;"><span class="tinyMce-placeholder">- WE INVITE YOU TO OUR -</span> </h1>
+					</div>
+					<div class="bee-block bee-block-4 bee-divider">
+						<div class="spacer" style="height:5px;"></div>
+					</div>
+					<div class="bee-block bee-block-5 bee-heading">
+						<h1 style="color:#013220;direction:ltr;font-family:'Alegreya', 'Trebuchet MS', Helvetica, sans-serif;font-size:52px;font-weight:normal;letter-spacing:1px;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;"><strong>ENGAGEMENT</strong> </h1>
+					</div>
+					<div class="bee-block bee-block-6 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-7 bee-divider">
+						<div class="spacer" style="height:5px;"></div>
+					</div>
+					<div class="bee-block bee-block-8 bee-divider">
+						<div class="spacer" style="height:1px;"></div>
+					</div>
+					<div class="bee-block bee-block-9 bee-image"><img alt="" class="bee-center bee-autowidth" src="https://c7dbb8b38b.imgdist.com/public/users/Integrators/BeeProAgency/877377_861551/Untitled%20design%20%282%29.png" style="max-width:1440px;" /></div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-3">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-2 bee-image"><a href="http://www.example.com" target="_self"><img alt="DIVIDER" class="bee-center bee-fullwidthOnMobile bee-fixedwidth" src="https://c7dbb8b38b.imgdist.com/public/users/Integrators/BeeProAgency/877377_861551/Abhijith%20%26%20Parvathi.png" style="max-width:360px;" /></a></div>
+					<div class="bee-block bee-block-3 bee-heading">
+						<h1 style="color:#013220;direction:ltr;font-family:'Alegreya', 'Trebuchet MS', Helvetica, sans-serif;font-size:49px;font-weight:normal;letter-spacing:1px;line-height:120%;text-align:center;margin-top:0;margin-bottom:0;"><span class="tinyMce-placeholder">On 25<sup>th</sup> December 2023</span> </h1>
+					</div>
+					<div class="bee-block bee-block-4 bee-paragraph">
+						<p style="word-break: break-word;"><span id="04426a86-f192-4dc4-a861-f1f263b9f213">At</span></p>
+					</div>
+					<div class="bee-block bee-block-5 bee-paragraph">
+						<p style="word-break: break-word;"><strong>Hill Palace Convention Center, Kalichanadukkam, Nileshwar, Kerala</strong></p>
+					</div>
+					<div class="bee-block bee-block-6 bee-divider">
+						<div class="spacer" style="height:5px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-4">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:30px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-5">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-image"><a href="http://www.example.com" target="_self"><img alt="DIVIDER" class="bee-center bee-fullwidthOnMobile bee-fixedwidth" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5276/divider.png" style="max-width:288px;" /></a></div>
+					<div class="bee-block bee-block-2 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-3 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-4 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-5 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-6 bee-divider">
+						<div class="spacer" style="height:0px;"></div>
+					</div>
+					<div class="bee-block bee-block-7 bee-divider">
+						<div class="spacer" style="height:5px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-6">
+			<div class="bee-row-content no_stack">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-html-block"><iframe allowfullscreen="" height="350" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15591.496146347363!2d75.2108607!3d12.3242642!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba463a980ac9061%3A0x8f6e44c8eeb92eb!2sHill%20Palace%20Convention%20Centre%20(%20Auditorium%20)!5e0!3m2!1sen!2sin!4v1698435019730!5m2!1sen!2sin" style="border:0;" width="400"></iframe></div>
+					<div class="bee-block bee-block-2 bee-button"><a class="bee-button-content" href="https://maps.app.goo.gl/UVkLkgotP2TzsvhG9" style="font-size: 16px; background-color: #013220; border-bottom: 0px solid transparent; border-left: 0px solid transparent; border-radius: 4px; border-right: 0px solid transparent; border-top: 0px solid transparent; color: #ffffff; direction: ltr; font-family: inherit; max-width: 100%; padding-bottom: 5px; padding-left: 20px; padding-right: 20px; padding-top: 5px; width: auto; display: inline-block;" target="_self"><span style="margin: 0; word-break: break-word; font-size: 16px; line-height: 200%;">View on Map</span></a></div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-7">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:5px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-8">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:20px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="bee-row bee-row-9">
+			<div class="bee-row-content">
+				<div class="bee-col bee-col-1 bee-col-w12">
+					<div class="bee-block bee-block-1 bee-divider">
+						<div class="spacer" style="height:20px;"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
